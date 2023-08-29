@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CGPA Calculator</string>
+    <string name="head">CGPA Calculator</string>
+    <string name="email">Email</string>
+    <string name="pswd">Password</string>
+    <string name="login">Login</string>
+    <string name="signUp">SignUp</string>
+    <string name="name">Enter your Name</string>
+    <string name="uid">Enter your UID (eg.22BCS1000)</string>
+    <string name="cuMail">CU-Mail (eg.22BCS10000@cuchd.in)</string>
+    <string name="saveCont">Continue</string>
+
+</resources>
